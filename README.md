@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning in Xidian university.
-- 🤔 Java/Python/C++
+- 🤔 Java/Python
 - 📫 How to reach me: 2878153350
 - 👯 Blog in: www.hlyblog.site
+- 😄 I'm learning machine-learning now and be interested in AI.
 - ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=cddorz&show_icons=true&theme=radical)
